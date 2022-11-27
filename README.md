@@ -1,4 +1,4 @@
-# Innopolis Hacks-AI. 7th place winner
+# [Innopolis Hacks-AI](https://hacks-ai.ru/championships/758467). 7th place winner
 
 ### Решение трека Почта России
 * Место на паблике: **топ-8**
